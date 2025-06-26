@@ -1,4 +1,4 @@
-# Conversational Book Recommender
+# Conversational Book Recommender.
 
 This project is a beginner-friendly implementation of a conversational book recommendation system built using Python. Instead of choosing from a predefined list of genres, users can describe the kind of book they are interested in, and the system will respond with appropriate book suggestions based on the meaning of their input.
 
