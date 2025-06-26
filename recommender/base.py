@@ -1,4 +1,4 @@
-# recommender/base.py
+# recommender../base.py
 class BaseRecommender:
     def __init__(self, csv_path):
         self.csv_path = csv_path
